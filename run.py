@@ -60,7 +60,7 @@ if memusysytem == '1':
   x = input("NUMBER : ")
 
   if x == "1":
-    os.system("sudo apt install python python2 python3")
+    os.system("sudo apt install python python2 python3;sudo apt install python3-pip")
     os.system("pip install python-obfuscator")
     os.system("python3 run.py")
 
@@ -91,7 +91,7 @@ if memusysytem == '2':
   x = input("NUMBER : ")
 
   if x == "1":
-    os.system("sudo apt install python python2 python3")
+    os.system("sudo apt install python python2 python3;sudo apt install python3-pip")
     os.system("pip install python-obfuscator")
     os.system("python3 run.py")
 
@@ -122,7 +122,7 @@ if memusysytem == '3':
   x = input("NUMBER : ")
 
   if x == "1":
-    os.system("sudo apt install python python2 python3")
+    os.system("sudo apt install python python2 python3;sudo apt install python3-pip")
     os.system("pip install python-obfuscator")
     os.system("python3 run.py")
 
@@ -153,7 +153,7 @@ if memusysytem == '4':
   x = input("NUMBER : ")
 
   if x == "1":
-    os.system("sudo apt install python python2 python3")
+    os.system("sudo apt install python python2 python3;sudo apt install python3-pip")
     os.system("pip install python-obfuscator")
     os.system("python3 run.py")
 
